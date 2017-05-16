@@ -1,0 +1,8 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(memcpy.o)
+                              ./src/virtual_cane.o (memcpy)
+/Applications/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+/Applications/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libcr_eabihelpers.a(memcpy.o)
+                              /Applications/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(memcpy.o) (__aeabi_memcpy)

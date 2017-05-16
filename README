@@ -1,0 +1,15 @@
+README
+
+Hey guys, thanks for reading.
+
+Notes to consider:
+
+    - i2c.h was copied from an example project. It is NOT our work.
+
+    - virtual_cane.c, accelerometer.h, pwm.h, lidar.h, haptic.h, 
+    and edge.h are our work.
+
+    - edge.h is located in the branch "modes"
+
+    - everything else in in "master"
+Tom
